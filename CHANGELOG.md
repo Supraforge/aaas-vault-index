@@ -1,3 +1,7 @@
+## [0.3.0]
+
+Release v0.3.0
+
 # Changelog
 
 All notable changes to this project are documented here. The format follows
