@@ -1,0 +1,6 @@
+# Machine-local harness index — a SQLite DB, a FAISS vector file and a lock,
+# rebuilt on demand by the harness indexer and meaningless on another box.
+# Ignored rather than committed for the same reason canvas (.gitignore:118),
+# aaas.com (:110) and the harness repo itself (:632) ignore it: it is generated
+# per-machine state, not source, and its .lock/.db churn on every session.
+.claude-index/
