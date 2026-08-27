@@ -1,0 +1,15 @@
+{
+  "files": {
+    "CLAUDE.md": {
+      "mtime": 1787558704.8186722
+    },
+    "README.md": {
+      "mtime": 1787558704.8186722
+    },
+    "SKILLS_MANIFEST.json": {
+      "mtime": 1787558704.8306727
+    }
+  },
+  "embedding_model": "paraphrase-multilingual-MiniLM-L12-v2",
+  "embedding_dim": 384
+}
